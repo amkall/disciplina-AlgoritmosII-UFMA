@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608143681 source:e:\projetos\algoritmosii\genetico\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+

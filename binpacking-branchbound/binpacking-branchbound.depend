@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602987564 source:e:\projetos\algoritmosii\binpacking-branchbound\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+

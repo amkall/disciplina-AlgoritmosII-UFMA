@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1601155759 source:e:\projetos\algoritmos ii\binpaking-enumerador\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1602095816 source:e:\projetos\algoritmosii\binpaking-enumerador\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1601321636 source:e:\projetos\algoritmosii\binpaking-enumerador\backup.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1605830085 source:e:\projetos\algoritmosii\binpaking-enumerador\backup - 3.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+

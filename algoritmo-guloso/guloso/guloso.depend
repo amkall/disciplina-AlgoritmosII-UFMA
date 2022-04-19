@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608136103 source:e:\projetos\algoritmosii\algoritmo-guloso\guloso\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+

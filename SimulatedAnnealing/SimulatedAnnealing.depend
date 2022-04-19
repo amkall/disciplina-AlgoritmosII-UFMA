@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1606612911 source:e:\projetos\algoritmosii\simulatedannealing\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+

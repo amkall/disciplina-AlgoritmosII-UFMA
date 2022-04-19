@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1606611935 source:e:\projetos\algoritmosii\randomsearch\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
